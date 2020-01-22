@@ -367,7 +367,7 @@ while playerInput != "quit":
             else:
                 print("invalid command")
         # checks for fight command
-        elif input_split[0] == "fighfigt":
+        elif input_split[0] == "fight":
             if len(input_split) is 1:
                 print_names("fight")
             elif isinstance(find_name(input_split), CharacterStuff.Character) and find_name(input_split) != player:
