@@ -7,7 +7,7 @@ repository contains a dump of school projects I've made for extra credit or assi
 
 hackathon projects I worked on that I don't host the repo for. All of these were made in under 24 hours.
 
-https://github.com/sippejw/EasyCite : Allows you to easily make in text citations in a google doc from physical media
+https://github.com/sippejw/EasyCite : Allows you to easily make in text citations in a google doc pulling/quoting text from physical media
 
 https://github.com/sippejw/BarHelper : Measures the volume of liquid in a bottle from a raster image
 
